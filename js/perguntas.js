@@ -6,14 +6,14 @@
                 texto: " Plástico, papelão, vidro e alumínio",
                 afirmacao: [
                     " Parabéns você acertou esses são os lixos reciclávei",
-                    "afirmação 2"
+                    " Excelente! Você está correto, esses materiais podem ser reciclados!"
                 ]
             },
             {
                 texto: " Lampada, espelho, ampola de remedio e oculos",
                 afirmacao: [
                     " Que pena, você errou esses não são os lixos recicláveis",
-                    "afirmação 2"
+                    "Que chato, você se enganou; esses itens não são recicláveis."
                 ]
             }
         ]
